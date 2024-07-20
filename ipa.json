@@ -5,7 +5,6 @@
     "apps": [
         {
             "name": "微信多开1",
-            "bundleIdentifier": "com.tencent.xin_1",
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062262,
